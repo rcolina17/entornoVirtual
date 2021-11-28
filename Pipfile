@@ -4,8 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-colorama = "*"
-art = "*"
+colorama = "0.4.4"
+art = "5.3"
+django = "*"
 
 [dev-packages]
 
